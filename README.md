@@ -54,4 +54,3 @@ python manage.py runserver 127.0.0.1:8888
 (do not forget to change database settings if you want to run app locally) or simply **visit website: 
 http://django-library.herokuapp.com/**
 
-**Author: Tomasz Potanski, tomasz@potanski.pl**
