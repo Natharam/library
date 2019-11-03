@@ -1,6 +1,6 @@
 Django==1.7.1
 dj-database-url==0.3.0
-gunicorn==19.1.1
+gunicorn==19.5.0
 psycopg2==2.5.4
 facepy==1.0.4
 fandjango==4.2
